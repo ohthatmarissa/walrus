@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+
+.walrus-hidden {
+  display: none;
+}
+
+.clickable {
+  color: purple;
+  cursor: pointer;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
