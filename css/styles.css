@@ -2,7 +2,7 @@ body {
   background-color: pink;
 }
 
-.walrus-hidden {
+#walrus-hidden {
   display: none;
 }
 
