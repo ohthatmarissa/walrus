@@ -1,16 +1,40 @@
 body {
-  background-color: pink;
+  background-color: #e6fff2;
 }
 
 #walrus-hidden {
   display: none;
 }
 
+#purple {
+  background-color: purple;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#pink {
+  background-color: pink;
+}
+
 .clickable {
-  color: purple;
+  color: green;
   cursor: pointer;
 }
 
 .clickable:hover {
   text-decoration: underline;
+}
+
+.purple-background {
+  background-color: purple;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.pink-background {
+  background-color: pink;
 }
